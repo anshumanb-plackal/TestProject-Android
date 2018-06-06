@@ -7,4 +7,7 @@ public class AdditionResult {
     public static String getAdditionResult(int a, int b) {
         return (a + b) + "";
     }
+    public static String getSubtractionResult(int a, int b) {
+        return (a - b) + "";
+    }
 }
